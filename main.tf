@@ -1,6 +1,9 @@
 /**
  * # ![AWS](aws-logo.png) VPC Endpoints
  *
+ * [![CI](https://github.com/figurate/terraform-aws-vpc-endpoints/actions/workflows/main.yml/badge.svg)](https://github.com/figurate/terraform-aws-vpc-endpoints/actions/workflows/main.yml)
+ *
+ *
  * ![AWS VPC Endpoints](aws_vpc_endpoints.png)
  */
 data "aws_vpc" "vpc" {

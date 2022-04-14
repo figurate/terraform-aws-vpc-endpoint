@@ -1,5 +1,7 @@
 # ![AWS](aws-logo.png) VPC Endpoints
 
+[![CI](https://github.com/figurate/terraform-aws-vpc-endpoints/actions/workflows/main.yml/badge.svg)](https://github.com/figurate/terraform-aws-vpc-endpoints/actions/workflows/main.yml)
+
 ![AWS VPC Endpoints](aws\_vpc\_endpoints.png)
 
 ## Requirements
